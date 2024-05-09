@@ -2,3 +2,5 @@ Linea 1
 Linea 2
 
 Insertando cambios al archivo textoPlano.txt
+
+Cambio realizado por el usuario Ynoht.
