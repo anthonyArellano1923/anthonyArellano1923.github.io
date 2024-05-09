@@ -1,9 +1,5 @@
-Linea 1
-Linea 2
-
 Insertando cambios al archivo textoPlano.txt
 
 Cambio realizado por el usuario Anthony Arellano.
 
-Cambio 5
-Cambio 6
+Cambia el plan de tu celular Entel.
