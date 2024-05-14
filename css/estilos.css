@@ -9,14 +9,21 @@
 	color: rgb(76, 76, 157);
 	width: 70%;
 	padding: 1em;
-	text-align: left;
-	border: 1px solid rgb(201, 59, 19);
+	text-align: justify;
+	border: 1px solid rgb(25, 5, 56);
 	margin: 0 auto;
 }
 
 #container h1 {
 	font-size: 20 px;
+	color: red;
+	text-align: center;
 }
 
+#container h2 {
+	font-size: 15px;
+	color: rgb(201, 12, 194);
+	text-align: center;
+}
 
 
