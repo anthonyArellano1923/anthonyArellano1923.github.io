@@ -3,20 +3,49 @@
 	color: rgb(0, 0, 0);	
 	text-align: center;
 	font-family: Arial, Helvetica, sans-serif;
+	margin: 0px;
+	padding: opx;
 }
 
 #container {
 	color: rgb(0, 0, 0);
 	width: 70%;
+	text-align: justify;
+	border: 1px solid rgb(25, 5, 56);
 	padding: 1em;
 	text-align: left;
 	border: 1px solid rgb(9, 7, 6);
 	margin: 0 auto;
+	padding: 0;
 }
 
 #container h1 {
 	font-size: 20 px;
+	text-align: center;
 }
 
+#blogsTitles {
+	font-size: 12px;
+	color: rgb(43, 123, 8);
+	text-align: left;
+}
+
+
+#cabecera {
+	background-color: rgba(53, 53, 222, 0.851);
+	margin: 0;
+	padding: 0.5em;
+	box-shadow: 0px 0px 20px 0px black;
+	font-size: 20px;
+	color: rgb(255, 255, 255);
+	text-align: left;
+}
+
+#cabecera #tagline {
+	font-weight: normal;
+	padding: 1em 0 0 0;
+	font-size: 0.8em;
+	margin-left: 2em;;
+}
 
 
