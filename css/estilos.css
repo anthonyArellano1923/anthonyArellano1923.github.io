@@ -13,7 +13,7 @@
 	text-align: justify;
 	border: 1px solid rgb(25, 5, 56);
 	padding: 1em;
-	text-align: left;
+	text-align: justify;
 	border: 1px solid rgb(9, 7, 6);
 	margin: 0 auto;
 	padding: 0;
@@ -25,8 +25,8 @@
 }
 
 #blogsTitles {
-	font-size: 12px;
-	color: rgb(43, 123, 8);
+	font-size: 17px;
+	color: rgb(0, 0, 0);
 	text-align: left;
 }
 
@@ -46,4 +46,8 @@
 	padding: 1em 0 0 0;
 	font-size: 0.8em;
 	margin-left: 2em;;
+}
+
+#post {
+	margin: 10px
 }
