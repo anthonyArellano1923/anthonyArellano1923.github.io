@@ -8,10 +8,10 @@
 #container {
 	color: rgb(76, 76, 157);
 	width: 70%;
-	padding: 1em;
 	text-align: justify;
 	border: 1px solid rgb(25, 5, 56);
 	margin: 0 auto;
+	padding: 0;
 }
 
 #container h1 {
@@ -28,9 +28,14 @@
 
 #headline {
 	font-size: 15px;
-	color: rgb(201, 12, 194);
+	color: rgb(255, 255, 255);
 	text-align: center;
 }
 
+#cabecera {
+	background-color: rgb(62, 62, 223);
+	margin: 0;
+	padding: 0.5em;
+}
 
 
