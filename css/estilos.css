@@ -1,35 +1,35 @@
 body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f0f0f0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
     margin: 0;
     padding: 0;
 }
 
 #container {
     background-color: #fff;
-    width: 80%;
+    max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 }
 
 #cabecera {
     background-color: #007bff;
     color: #fff;
     padding: 20px;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
 
 #cabecera h1 {
     margin: 0;
-    font-size: 24px;
+    font-size: 28px;
 }
 
 #tagline {
-    font-size: 14px;
+    font-size: 16px;
 }
 
 #post {
@@ -38,9 +38,7 @@ body {
 }
 
 #blogsTitles {
-    font-size: 20px;
+    font-size: 24px;
     color: #007bff;
     margin-top: 20px;
 }
-
-
