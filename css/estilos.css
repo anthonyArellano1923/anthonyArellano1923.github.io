@@ -1,57 +1,46 @@
-html {
-	background-color: #37253a;
-	font-family: Arial, Helvetica, sans-serif;
-}
-#body {
-	
-	color: rgb(0, 0, 0);	
-	text-align: center;
-	margin: 0px;
-	padding: opx;
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
 }
 
 #container {
-	background-color: #08c1ff;
-	color: #333;
-	width: 70%;
-	text-align: justify;
-	border: 1px solid rgb(25, 5, 56);
-	padding: 1em;
-	text-align: justify;
-	border: 1px solid rgb(9, 7, 6);
-	margin: 0 auto;
-	padding: 0;
+    background-color: #fff;
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
-
-#container h1 {
-	font-size: 20 px;
-	text-align: center;
-}
-
-#blogsTitles {
-	font-size: 17px;
-	color: rgb(0, 0, 0);
-	text-align: left;
-}
-
 
 #cabecera {
-	background-color: #0e395d;
-	margin: 0;
-	padding: 0.5em;
-	box-shadow: 0px 0px 20px 0px black;
-	font-size: 20px;
-	color: rgb(255, 255, 255);
-	text-align: left;
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
 
-#cabecera #tagline {
-	font-weight: normal;
-	padding: 1em 0 0 0;
-	font-size: 0.8em;
-	margin-left: 2em;;
+#cabecera h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+#tagline {
+    font-size: 14px;
 }
 
 #post {
-	margin: 10px
+    margin-top: 20px;
+    line-height: 1.6;
 }
+
+#blogsTitles {
+    font-size: 20px;
+    color: #007bff;
+    margin-top: 20px;
+}
+
+
