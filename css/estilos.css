@@ -1,55 +1,48 @@
 body {
-    font-family: 'Open Sans', sans-serif;
-    background-color: #f0f0f0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #222;
+    color: #fff;
     margin: 0;
     padding: 0;
-    transition: background-color 0.3s ease; /* Animación de cambio de color de fondo */
 }
 
 #container {
-    background-color: #fff;
+    background-color: #444;
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-    transition: box-shadow 0.3s ease; /* Animación de cambio de sombra */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
 }
 
 #cabecera {
-    background-color: #ff6347; /* Nuevo color de fondo */
-    color: #fff;
+    background-color: #333;
+    color: #f0f0f0;
     padding: 20px;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
-    transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Animaciones de cambio de color de fondo y sombra */
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4);
+    text-align: center;
 }
 
 #cabecera h1 {
     margin: 0;
-    font-size: 32px; /* Tamaño de fuente aumentado */
-    font-weight: bold; /* Texto en negrita */
-    text-transform: uppercase; /* Texto en mayúsculas */
-    letter-spacing: 2px; /* Espaciado entre letras aumentado */
-    transition: font-size 0.3s ease; /* Animación de cambio de tamaño de fuente */
+    font-size: 48px;
+    font-weight: bold;
 }
 
 #tagline {
-    font-size: 18px; /* Tamaño de fuente aumentado */
-    font-style: italic; /* Texto en cursiva */
-    transition: font-size 0.3s ease; /* Animación de cambio de tamaño de fuente */
+    font-size: 18px;
+    font-style: italic;
 }
 
 #post {
     margin-top: 20px;
     line-height: 1.6;
-    transition: color 0.3s ease; /* Animación de cambio de color de texto */
 }
 
 #blogsTitles {
-    font-size: 28px; /* Tamaño de fuente aumentado */
-    color: #008080; /* Nuevo color de texto */
+    font-size: 36px;
+    color: #ff6f61;
     margin-top: 20px;
-    transition: font-size 0.3s ease, color 0.3s ease; /* Animaciones de cambio de tamaño de fuente y color de texto */
 }
