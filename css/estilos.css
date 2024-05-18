@@ -55,3 +55,7 @@ html {
 #post {
     margin: 10px
 }
+
+#footer {
+	font-weight: bold;
+}
