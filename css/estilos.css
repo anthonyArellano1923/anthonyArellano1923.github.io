@@ -45,6 +45,11 @@ html {
     text-align: left;
 }
 
+#logo {
+	width: 100px;
+	vertical-align: middle;
+}
+
 #cabecera #tagline {
     font-weight: normal;
     padding: 1em 0 0 0;
