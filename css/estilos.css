@@ -58,4 +58,7 @@ html {
 
 #footer {
 	font-weight: bold;
+	text-align: center;
+	background-color: #333;
+	color: white;
 }
