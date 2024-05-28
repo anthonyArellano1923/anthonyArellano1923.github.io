@@ -14,7 +14,7 @@ This is a blogpost created to practice my skills on Git and Github.
 ### Project colaborators:
 Until now, there are no more collaborators rather then myself. If you want to join me in this labor please text or email me and i will be glad to evaluate your proposal.
 
-proyect.colaborators@blogpost.io
+project.colaborators@blogpost.io
 
 
 [========]
