@@ -1,5 +1,23 @@
 #Firstblogpost :tw-1f191:
-## Not a real blog .
+## Not a real blog.
+
+This is a blogpost created to practice my skills on Git and Github.
+
+### Project funtions:
+- Practice git & github skills.
+- Gain confidence.
+- Learning team skills.
+- Getting skills in order to be more productive
+
+------------
+
+### Project colaborators:
+Until now, there are no more collaborators rather then myself. If you want to join me in this labor please text or email me and i will be glad to evaluate your proposal.
+
+project.colaborators@blogpost.io
+
+
+[========]
 
 This is a blogpost created to practice my skills on Git and Github.
 ChatGPT told me to be more specific given that this is a readme.md of my repository but i'm not in the mood of complexity right now jejeje...
