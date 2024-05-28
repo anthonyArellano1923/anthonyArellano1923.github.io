@@ -16,6 +16,11 @@ Until now, there are no more collaborators rather then myself. If you want to jo
 
 project.colaborators@blogpost.io
 
+------------
+
+### Special thanks
+I will love to specially thanks to all team platzi for doing such an excellent job teaching us all of this skills for our future as web developers.
+
 
 [========]
 
