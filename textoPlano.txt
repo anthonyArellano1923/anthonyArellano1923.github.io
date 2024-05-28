@@ -13,3 +13,5 @@ main 1
 main 2
 
 Final try
+
+A quick preview to git stash
